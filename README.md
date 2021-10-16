@@ -11,3 +11,5 @@ https://pancakeswap.finance/swap
 https://app.sushi.com/swap?inputCurrency=0x059611daEdBA5Fe0875aC7c76d7cE47FfE5c39C5
 
 https://app.1inch.io/#/56/classic/swap/MBEP/BNB
+
+https://charts.bogged.finance/0x059611daEdBA5Fe0875aC7c76d7cE47FfE5c39C5
