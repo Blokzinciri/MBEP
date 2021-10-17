@@ -19,6 +19,6 @@ https://charts.bogged.finance/0x059611daEdBA5Fe0875aC7c76d7cE47FfE5c39C5
 
 https://trade.bscswap.com/#/swap?outputCurrency=0x059611daEdBA5Fe0875aC7c76d7cE47FfE5c39C5
 
-# COnin/Token Listing
+# Coin/Token Listing
 
 https://thebittimes.com/coin-MBEP-BSC.html
