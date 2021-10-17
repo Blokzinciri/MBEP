@@ -1,7 +1,8 @@
 # MBEP Token
-MBEP Token
-MBEP
-BEP20
+
+MBEP Token (MBEP)
+
+BEP-20: BEP-20 is a token standard on Binance Smart Chain that extends ERC-20, the most common Ethereum token standard.
 
 Contract: https://bscscan.com/token/0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5
 
