@@ -23,3 +23,7 @@ https://trade.bscswap.com/#/swap?outputCurrency=0x059611daEdBA5Fe0875aC7c76d7cE4
 # Coin/Token Listing
 
 https://thebittimes.com/coin-MBEP-BSC.html
+
+# Logo
+
+https://ipfs.io/ipfs/bafkreic42vm5jhjmrtnjuk5vach4hhzpwfwba6wqg4x7hkyal5ocbuyskq
