@@ -27,3 +27,14 @@ https://thebittimes.com/coin-MBEP-BSC.html
 # Logo
 
 https://ipfs.io/ipfs/bafkreic42vm5jhjmrtnjuk5vach4hhzpwfwba6wqg4x7hkyal5ocbuyskq
+
+-----------------------------------------------------------------------------------------
+# AAAA Token (AAAA)
+
+Contract: https://bscscan.com/address/0xa115066c6d305ae60d06dfded4661a44b0bb01f5
+
+Total Supply: 10000 AAA
+
+# SWAP/Exchange (Tokens & MBEP): 
+
+https://app.sushi.com/swap?inputCurrency=0xa115066c6d305aE60D06dFDed4661a44B0BB01F5
