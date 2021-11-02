@@ -20,6 +20,13 @@ https://charts.bogged.finance/0x059611daEdBA5Fe0875aC7c76d7cE47FfE5c39C5
 
 https://trade.bscswap.com/#/swap?outputCurrency=0x059611daEdBA5Fe0875aC7c76d7cE47FfE5c39C5
 
+| Contract  | Address |
+| ------------- | ------------- |
+| MBEP Token (MBEP) | [0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5](https://bscscan.com/token/0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5) |
+| MBEP Token (MBEP) | [0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5](https://bscscan.com/address/0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5)|
+| MBEP Token (MBEP) | [0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5](https://bscscan.com/token/0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5) |
+| MBEP Token (MBEP) | [0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5](https://bscscan.com/address/0x059611daedba5fe0875ac7c76d7ce47ffe5c39c5)|
+
 # Coin/Token Listing
 
 https://thebittimes.com/coin-MBEP-BSC.html
